@@ -2,10 +2,10 @@
   "albums": [
     {
       "id": 0,
-      "title": "Mountains",
-      "description": "Just photos of mountains",
+      "title": "Cats",
+      "description": "Just cute cats",
       "photoUrls": [
-        "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+        "https://i.pinimg.com/736x/47/cb/3b/47cb3b298780b02da654bd9a1d147a63.jpg",
         "https://www.muchbetteradventures.com/magazine/content/images/2024/04/mount-everest-at-sunset-1.jpg",
         "https://www.atlasandboots.com/wp-content/uploads/2019/05/ama-dablam2-most-beautiful-mountains-in-the-world.jpg",
         "https://i.natgeofe.com/n/c9107b46-78b1-4394-988d-53927646c72b/1095_3x4.jpg",
